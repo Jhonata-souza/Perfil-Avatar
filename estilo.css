@@ -1,0 +1,52 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url("img/Bazul.jpg");   
+    background-repeat: no-repeat;
+    background-position: 0% 0%;
+    background-attachment: fixed;
+    background-size: cover;
+    /*background-color: rgb(118, 191, 255);*/
+}
+
+.center {
+    max-width: 1100px;
+    padding: 0.2px;
+    display: flex;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    top: 50px;
+    color: rgb(0, 31, 41);
+    background: rgb(243, 255, 253);
+    
+}
+
+h2 {
+    text-align: center;
+    size: 50px;
+    color: rgb(255, 255, 255);
+}
+
+.quadrado {
+    background: rgb(243, 255, 253);
+    height: 120px;
+    position: sticky;
+    top: 0px;
+    left: 0px;
+}
+
+.imagemperfil {
+    position: relative;
+    left: 40%;
+}
+
+
+
+
+
